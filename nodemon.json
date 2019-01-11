@@ -1,5 +1,6 @@
 {
   "env": {
-    "MONGO_ATLAS_PW": "node-rest"
+    "MONGO_ATLAS_PW": "node-rest", 
+    "JWT_KEY": "seeccreet!!"
   }
 }
